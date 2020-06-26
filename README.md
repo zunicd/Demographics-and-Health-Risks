@@ -2,7 +2,7 @@
 
 ## U.S. Demographics and Health Risks
 
-The Dashboard can be viewed here.
+The interactive visualization can be viewed [here](https://zunicd.github.io/Demographics-and-Health-Risks/).
 
 ### Objective
 
@@ -38,9 +38,7 @@ To create the simple plot, you will need to replace `app.js` with `app11.js` in 
 
 ### About Data
 
- The dataset `assets/data/data.csv` is based on 2014 ACS 1-year estimates from [US Census](https://data.census.gov/cedsci/). Columns in bold are used in our visualization. MOE stands for "margin of error."
-
-### Before You Begin
+ The dataset *assets/data/data.csv* is based on 2014 ACS 1-year estimates from [US Census](https://data.census.gov/cedsci/). Columns in bold are used in our visualization. MOE stands for "margin of error."
 
 - **Number of records:**     51
 - **Columns** (18):
