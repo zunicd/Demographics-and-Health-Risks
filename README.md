@@ -32,6 +32,8 @@ To create the simple plot, you will need to replace `app.js` with `app11.js` in 
 
 - JavaScript
 
+- D3.js
+
 - HTML/CSS
 
   
